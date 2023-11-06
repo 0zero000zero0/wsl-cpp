@@ -1,2 +1,5 @@
 .vscode/
 build/
+.clang-format
+0.jpg
+1.txt
